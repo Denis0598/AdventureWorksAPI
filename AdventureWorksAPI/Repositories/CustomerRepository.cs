@@ -8,7 +8,7 @@ namespace AdventureWorksAPI.Repositories
     public class CustomerRepository : ICustumerRepository
     {
         private static ConcurrentDictionary<int, Customer>? customerCache;
-        //Comentario, puede usar Redis para un cache mas eficiente ==> Open Source
+        //Comentario, puede usar Redis para un cache mas eficiente ==> Open source
         private AdventureWorksDB db;
 
         public CustomerRepository(AdventureWorksDB injectdDB)

@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <Reference Include="LibreraiAdventureWorks">
-      <HintPath>..\..\MVC\EjemploMVC-master\EjemploMVC\bin\Debug\net6.0\LibreraiAdventureWorks.dll</HintPath>
+      <HintPath>..\..\LibreriaAdventureWorksLT\LibreraiAdventureWorks\LibreraiAdventureWorks\bin\Debug\net6.0\LibreraiAdventureWorks.dll</HintPath>
     </Reference>
   </ItemGroup>
 
